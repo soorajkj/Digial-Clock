@@ -11,7 +11,7 @@
 }
 body{
     background-color: rgb(0, 0, 0);
-    font-family: "clockfont" , sans-serif;
+    font-family: "clockfont";
     display: flex;
     justify-content: center;
     color: #fff;
